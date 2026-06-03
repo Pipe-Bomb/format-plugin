@@ -1,0 +1,10 @@
+{
+	"plugin.format.name": "Format",
+
+	"plugin.format.attribute.track.format.codec.name": "Codec",
+	"plugin.format.attribute.track.format.bitrate.name": "Bit rate",
+	"plugin.format.attribute.track.format.samplerate.name": "Sample rate",
+	"plugin.format.attribute.track.format.quality_tier.name": "Quality",
+	"plugin.format.attribute.track.format.channels.name": "Channels",
+	"plugin.format.attribute.track.format.channel_layout.name": "Layout"
+}
