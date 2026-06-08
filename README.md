@@ -1,4 +1,7 @@
-# Format Plugin
+<h1>
+    <img src="https://raw.githubusercontent.com/Pipe-Bomb/.github/refs/heads/master/assets/logos/Pipe%20Bomb%20no%20background%20w%20outline.png" width="40" />
+    Format Plugin
+</h1>
 
 Uses FFprobe to determine audio information for each track.
 
