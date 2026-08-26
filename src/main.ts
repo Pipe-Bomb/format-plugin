@@ -1,4 +1,4 @@
-import type PipeBomb from "@sdk";
+import type PipeBomb from "@pipe-bomb/plugin-sdk";
 import { FormatAttributeSource } from "./format.attribute-source.js";
 
 export default class Plugin implements PipeBomb.Plugin {

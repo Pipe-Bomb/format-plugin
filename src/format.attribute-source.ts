@@ -8,7 +8,7 @@ import {
 	AttributeValue,
 	TrackAttributionHelper,
 	TrackMetadata,
-} from "@sdk";
+} from "@pipe-bomb/plugin-sdk";
 import { spawn } from "child_process";
 import { FFprobeAudioStream, FFprobeOutput } from "./ffprobe.js";
 import { LOSSLESS_CODECS } from "./lossless-codecs.const.js";
